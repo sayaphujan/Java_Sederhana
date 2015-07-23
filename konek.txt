@@ -1,0 +1,6 @@
+DBHost=localhost
+DBUsername=root
+DBDriver=com.mysql.jdbc.Driver
+DBPassword=
+DBPort=3306
+DBDatabase=kopkar
